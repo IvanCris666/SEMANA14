@@ -10,3 +10,4 @@ Cristian Rivera. Laboratorio individual. 👌
 1. `git init` - Inicializa un nuevo repositorio git.
 2. `git clone <url>` - Clona un repositorio existente en tu máquina local.
 3. git clone <url>. Clona un repositorio remoto a tu máquina local.
+"C:\Users\ivanc\OneDrive\Desktop\Repositorioclonado\lab3.png"
