@@ -11,5 +11,7 @@ Cristian Rivera. Laboratorio individual. 👌
 2. `git clone <url>` - Clona un repositorio existente en tu máquina local.
 3. git clone <url>. Clona un repositorio remoto a tu máquina local.
 
-   
+
+![Descripción de la imagen](https://github.com/IvanCris666/SEMANA14/raw/main/lab3.png)
+
 "C:\Users\ivanc\OneDrive\Desktop\Repositorioclonado\lab3.png"
